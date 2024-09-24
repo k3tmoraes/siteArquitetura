@@ -1,0 +1,37 @@
+
+ /* CSS HEX */
+ /* --misty-rose: #ffe5ecff;
+--pink: #ffc2d1ff;
+--cherry-blossom-pink: #ffb3c6ff;
+--bakermiller-pink: #ff8fabff;
+--rose-pompadour: #fb6f92ff; */
+
+
+
+/* https://coolors.co/palette/ffe5ec-ffc2d1-ffb3c6-ff8fab-fb6f92 */
+
+
+
+body{
+    background-color: rgb(255, 237, 237);
+    color: rgb(0, 0, 0);
+}
+
+
+img{
+    width: 300px;
+    border: 5px solid rgb(255, 196, 230);
+     border-radius: 10px;
+
+}
+
+h1{
+    color: rgb(247, 168, 168);
+}
+
+h2{
+    color: rgb(247, 169, 169);
+}
+h3{
+    color: rgb(236, 72, 135);
+}
